@@ -8,4 +8,4 @@ Why should you have different branches?
 Ans: Branches should be made for each feature that the developer is working on. It is made so that main working source code is not meddled with, and that the new feature that is being worked on is done on the copy of the main source code, and only merged when that feature has been tested to be working correctly.
 
 In a project how many remote Git repositories do you usually have?
-Ans: For a single project, you should generally maintain one repository. Within the repository, you can have multiple branches.
+Ans: We can have multiple repositories in an account, but for a single project, you should generally maintain one repository. Within the repository, you can have multiple branches.
